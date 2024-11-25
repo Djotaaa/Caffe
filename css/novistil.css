@@ -1,0 +1,127 @@
+ul.navbar-nav>li>a{
+	letter-spacing: 0.2rem;
+	text-transform: uppercase;
+	color: #bf261b;
+	font-weight: bold;
+
+
+}
+ul.navbar-nav>li.nav-item.dropdown>.dropdown-menu>li>a {
+
+	letter-spacing: 0.15rem;
+	text-transform: uppercase;
+	font-weight: bold; 
+	color: #bf261b;
+}
+
+section {
+
+	margin-top: 1.5rem;
+}
+
+.list-unstyled li{
+	padding: 1.5rem;
+	border-bottom: 1px solid blue;
+}
+
+.list-unstyled li a{
+	text-decoration: none;
+	color: black;
+} 
+
+.photo-gallery .item {
+	padding-bottom: 30px ;
+}
+
+.photo-gallery .photos {
+	padding-bottom: 20px;
+}
+
+.photo-gallery {
+	color: #313437;
+	background-color: #fff;
+} 
+
+footer {
+	padding: 2rem;
+	background-color: #eee;
+	margin-top: 1.5rem;
+}
+
+footer a {
+	color: #666666;
+	transition: color 0.4s ease-in;
+	padding: 0.2rem;
+	text-transform: uppercase;
+	text-decoration: none;
+}
+
+footer a:hover {
+	color: black;
+	text-decoration: underline;
+}
+footer p {
+	letter-spacing: 0.1rem;
+	text-transform: uppercase;
+}
+
+footer.list-unstyled>li>p{
+	color: blue;
+}
+
+.mapa a{
+	text-transform: uppercase;
+	color: black;
+	text-decoration: none;
+	font-size: 1.5rem;
+
+
+}
+.mapa a:hover{
+	text-decoration: underline;
+
+}
+
+.dropdown-item {
+	text-transform: uppercase;
+}
+
+.fa-facebook-square{
+color: blue;
+}
+.fa-instagram-square{
+color: #fb3958;
+}
+.fa-twitter-square{
+color: blue;
+}	
+
+.pivacene li {
+	padding: 1rem;
+	border-bottom: 2px solid yellow;
+
+}	
+.zestokocene li {
+	padding: 1rem;
+	border-bottom: 2px solid black;
+}
+
+.vinacene li {
+	padding: 1rem;
+	border-bottom: 2px solid purple;
+}
+
+.kafacene li {
+	padding: 1rem;
+	border-bottom: 2px solid brown;
+}
+
+.sokovicene li {
+	padding: 1rem;
+	border-bottom: 2px solid seagreen;
+}
+
+.vodecene li {
+	padding: 1rem;
+	border-bottom: 2px solid blue;
+}
